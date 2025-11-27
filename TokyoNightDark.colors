@@ -1,0 +1,41 @@
+[General]
+Name = Tokyo Night - Dark
+ColorScheme = TokyoNight-Dark
+shadeSortColumn = true
+
+[Colors:Button]
+BackgroundAlternate = 36,40,59
+BackgroundNormal = 36,40,59
+ForegroundNormal = 169,177,214
+DecorationFocus = 122,162,247
+DecorationHover = 187,154,247
+
+[Colors:Selection]
+BackgroundNormal = 86,95,137
+ForegroundNormal = 192,202,245
+
+[Colors:View]
+BackgroundAlternate = 26,27,38
+BackgroundNormal = 26,27,38
+ForegroundActive = 192,202,245
+ForegroundNormal = 169,177,214
+
+[Colors:Window]
+BackgroundAlternate = 36,40,59
+BackgroundNormal = 26,27,38
+ForegroundNormal = 169,177,214
+
+[Colors:Tooltip]
+BackgroundNormal = 65,72,104
+ForegroundNormal = 192,202,245
+
+[Colors:Text]
+BackgroundNormal = 26,27,38
+ForegroundNormal = 192,202,245
+ForegroundInactive = 86,95,137
+
+[Colors:Complementary]
+BackgroundNormal = 36,40,59
+ForegroundNormal = 192,202,245
+DecorationFocus = 122,162,247
+DecorationHover = 125,207,255
