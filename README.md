@@ -17,6 +17,11 @@
 
 ----
 
+## Krita Resource Folder Locations:
+- **Linux**: `$HOME/.local/share/krita/`
+- **Windows**: `%APPDATA%\krita\`
+- **MacOS**: `~/Library/Application Support/Krita/`
+
 ## Installation
 
 1. In Krita, look to the menu bar at the very top
